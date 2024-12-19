@@ -4,7 +4,9 @@
 - I'm in my first year of **System Development** in college
 - Working hard to be a full stack
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laviniapark&show_icons=true&theme=transparent)](https://github.com/laviniapark/github-readme-stats)
+[![Lavinia's GitHub stats](https://github-readme-stats.vercel.app/api?username=laviniapark&show_icons=true&theme=transparent)](https://github.com/laviniapark/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laviniapark&layout=compact&theme=transparent)
 ## Languages and Tools
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
