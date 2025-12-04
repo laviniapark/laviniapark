@@ -19,13 +19,14 @@
 
 ## Contact Info
 <div>
-  <a href="www.linkedin.com/in/lavinia-park-l01122003">
+  <a href="https://www.linkedin.com/in/lavinia-park-l01122003">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Botao">
   </a>
   <a href="https://www.instagram.com/laviniapark.jpg/">
     <img src="https://img.shields.io/badge/instagram-ce42f5?logo=instagram&style=for-the-badge" alt="Instagram Botao">
   </a>
 </div>
+
 
 
 
