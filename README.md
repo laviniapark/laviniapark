@@ -1,5 +1,5 @@
 ## 💮 Hi! I'm Lavinia 💮
-- **Age**: 21
+- **Age**: 22
 - **Nationality**: Brazillian | Korean 
 - Currently studying in FIAP in my second year of **System Development**
 - Aspiring back-end developer, with dreams of becoming a full-stack developer
@@ -26,4 +26,5 @@
     <img src="https://img.shields.io/badge/instagram-ce42f5?logo=instagram&style=for-the-badge" alt="Instagram Botao">
   </a>
 </div>
+
 
