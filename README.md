@@ -4,8 +4,8 @@
 - Currently studying in FIAP in my second year of **System Development**
 - Aspiring back-end developer, with dreams of becoming a full-stack developer
 
-[![Lavinia's GitHub stats](https://github-readme-stats.vercel.app/api?username=laviniapark&show_icons=true&theme=transparent)](https://github.com/laviniapark/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laviniapark&layout=compact&theme=transparent)
+![Lavinia's GitHub stats](https://github-readme-stats-pi-nine-80.vercel.app/api?username=laviniapark&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats-pi-nine-80.vercel.app/api/top-langs/?username=laviniapark&layout=compact&theme=transparent)
 ## Languages and Tools
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,5 +26,6 @@
     <img src="https://img.shields.io/badge/instagram-ce42f5?logo=instagram&style=for-the-badge" alt="Instagram Botao">
   </a>
 </div>
+
 
 
