@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: show_icons=true&theme=transparent
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.LAV_TOKEN }}
 
       - name: Generate top langs card
         uses: readme-tools/github-readme-stats-action@v1
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: layout=compact&theme=transparent
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.LAV_TOKEN }}
 
       - name: Commit cards
         run: |
