@@ -4,8 +4,9 @@
 - Graduated in **Systems Development** from FIAP
 - Junior developer focused on becoming a full-stack developer
 
-![Lavinia's GitHub stats](https://github-readme-stats-pi-nine-80.vercel.app/api?username=laviniapark&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats-pi-nine-80.vercel.app/api/top-langs/?username=laviniapark&layout=compact&theme=transparent)
+![Lavinia's GitHub stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
+
 ## Languages and Tools
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
