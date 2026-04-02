@@ -1,30 +1,24 @@
 ## 💮 Hi! I'm Lavinia 💮
 - **Age**: 22
-- **Nationality**: Brazillian | Korean 
+- **Nationality**: Brazilian | Korean 
 - Graduated in **Systems Development** from FIAP
-- Junior developer focused on becoming a full-stack developer
+- Junior developer focused on building full-stack applications and improving through hands-on projects
 
 ![Lavinia's GitHub stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
 
 ## Languages and Tools
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- **Languages:** Java, C#
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** ASP.NET Core, Spring Boot
+- **Database:** Oracle SQL 
+- **Tools & Others:** Azure, VS Code, Insomnia, IntelliJ
 
 ## Contact Info
 <div>
   <a href="https://www.linkedin.com/in/lavinia-park-l01122003">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Botao">
-  </a>
-  <a href="https://www.instagram.com/laviniapark.jpg/">
-    <img src="https://img.shields.io/badge/instagram-ce42f5?logo=instagram&style=for-the-badge" alt="Instagram Botao">
   </a>
 </div>
 
