@@ -1,4 +1,7 @@
 ## 💮 Hi! I'm Lavinia 💮
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZ0MjRkNTExbnY1MXJ4enpkMHczN20yZTVrMjU0bm4wcndta3VueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+
 - **Age**: 22
 - **Nationality**: Brazilian | Korean 
 - Graduated in **Systems Development** from FIAP
